@@ -1,1 +1,1 @@
-SELECT * FROM dbo.names
+SELECT TOP 10 * FROM dbo.names
